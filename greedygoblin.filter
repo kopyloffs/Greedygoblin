@@ -36,7 +36,7 @@ ItemDisplay[toa]: %PURPLE%Token of Absolution
 
 //POD Items
 ItemDisplay[std]: %NAME%
-ItemDisplay[cx5]: %PURPLE%%NAME%
+ItemDisplay[cx5]: %PURPLE%%NL%%NL%%NAME%%NL%%NL%
 ItemDisplay[cx6]: %PURPLE%Diablo's Soulstone
 ItemDisplay[cx7]: %RED%ØØØØØØØØØ %PURPLE%KEY OF CHAOS%RED% ØØØØØØØØØ
 //ItemDisplay[ma1]: %PURPLE%%NAME%
@@ -113,20 +113,20 @@ ItemDisplay[r16]: %TAN%io 16
 ItemDisplay[r17]: %TAN%Lum 17
 ItemDisplay[r18]: %TAN%Ko 18
 ItemDisplay[r19]: %TAN%Fal 19
-ItemDisplay[r20]: %NOTIFY-PURPLE%%SOUND-3000%%RED%Ø %PURPLE%LEM 20%RED% Ø
-ItemDisplay[r21]: %NOTIFY-PURPLE%%SOUND-3000%%RED%Ø %PURPLE%PUL 21%RED% Ø
-ItemDisplay[r22]: %NOTIFY-PURPLE%%SOUND-3000%%RED%ØØ %PURPLE%UM 22%RED% ØØ
-ItemDisplay[r23]: %NOTIFY-PURPLE%%SOUND-3000%%RED%ØØ %PURPLE%MAL 23%RED% ØØ
-ItemDisplay[r24]: %NOTIFY-PURPLE%%SOUND-3000%%RED%ØØØ %PURPLE%IST 24%RED% ØØØ
-ItemDisplay[r25]: %NOTIFY-PURPLE%%SOUND-3000%%RED%ØØØØ %PURPLE%GUL 25%RED% ØØØØ
-ItemDisplay[r26]: %NOTIFY-PURPLE%%SOUND-3000%%RED%ØØØØØØØØØ %PURPLE%VEX 26%RED% ØØØØØØØØØ
-ItemDisplay[r27]: %NOTIFY-PURPLE%%SOUND-3000%%RED%ØØØØØØØØØ %PURPLE%OHM 27%RED% ØØØØØØØØØ
-ItemDisplay[r28]: %NOTIFY-PURPLE%%SOUND-3000%%RED%ØØØØØØØØØØØØØØØ %PURPLE%LO 28%RED% ØØØØØØØØØØØØØØØ
-ItemDisplay[r29]: %NOTIFY-PURPLE%%SOUND-3000%%RED%ØØØØØØØØØØØØØØØ  %PURPLE%SUR 29%RED% ØØØØØØØØØØØØØØØ
-ItemDisplay[r30]: %NOTIFY-PURPLE%%SOUND-3000%%RED%ØØØØØØØØØØØØØØØØØØ %PURPLE%BER 30%RED% ØØØØØØØØØØØØØØØØØØ
-ItemDisplay[r31]: %NOTIFY-PURPLE%%SOUND-3000%%RED%ØØØØØØØØØØØØØØØØØØ %PURPLE%JAH 31%RED% ØØØØØØØØØØØØØØØØØØ
-ItemDisplay[r32]: %NOTIFY-PURPLE%%SOUND-3000%%RED%¤ØØØØØØØØØ %PURPLE%CHAM 32%RED% ØØØØØØØØØ
-ItemDisplay[r33]: %NOTIFY-PURPLE%%SOUND-3000%%RED%ØØØØØØØØØØØØØØØ %PURPLE%ZOD 33%RED% ØØØØØØØØØØØØØØØ
+ItemDisplay[r20]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%Ø %PURPLE%LEM 20%RED% Ø%NL%%NL%
+ItemDisplay[r21]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%Ø %PURPLE%PUL 21%RED% Ø%NL%%NL%
+ItemDisplay[r22]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%ØØ %PURPLE%UM 22%RED% ØØ%NL%%NL%
+ItemDisplay[r23]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%ØØ %PURPLE%MAL 23%RED% ØØ%NL%%NL%
+ItemDisplay[r24]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%ØØØ %PURPLE%IST 24%RED% ØØØ%NL%%NL%
+ItemDisplay[r25]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%ØØØØ %PURPLE%GUL 25%RED% ØØØØ%NL%%NL%
+ItemDisplay[r26]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%ØØØØØØØØØ %PURPLE%VEX 26%RED% ØØØØØØØØØ%NL%%NL%
+ItemDisplay[r27]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%ØØØØØØØØØ %PURPLE%OHM 27%RED% ØØØØØØØØØ%NL%%NL%
+ItemDisplay[r28]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%ØØØØØØØØØØØØØØØ %PURPLE%LO 28%RED% ØØØØØØØØØØØØØØØ%NL%%NL%
+ItemDisplay[r29]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%ØØØØØØØØØØØØØØØ  %PURPLE%SUR 29%RED% ØØØØØØØØØØØØØØØ%NL%%NL%
+ItemDisplay[r30]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%ØØØØØØØØØØØØØØØØØØ %PURPLE%BER 30%RED% ØØØØØØØØØØØØØØØØØØ%NL%%NL%
+ItemDisplay[r31]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%ØØØØØØØØØØØØØØØØØØ %PURPLE%JAH 31%RED% ØØØØØØØØØØØØØØØØØØ%NL%%NL%
+ItemDisplay[r32]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%¤ØØØØØØØØØ %PURPLE%CHAM 32%RED% ØØØØØØØØØ%NL%%NL%
+ItemDisplay[r33]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%ØØØØØØØØØØØØØØØ %PURPLE%ZOD 33%RED% ØØØØØØØØØØØØØØØ%NL%%NL%
 
 //Misc quest
 ItemDisplay[bbb]: %TAN%%NAME%
@@ -296,11 +296,11 @@ ItemDisplay[UNI !ETH !ID xts]: %GOLD%Radament Sphere
 ItemDisplay[UNI !ETH !ID uml]: %GOLD%Blackoak
 
 //Jewelry
-ItemDisplay[UNI !ID rin]: %NOTIFY-PURPLE%%SOUND-3000%%RED%ØØØØØØØØ %PURPLE%Ring %RED%ØØØØØØØØ
-ItemDisplay[UNI !ID amu]: %NOTIFY-PURPLE%%SOUND-3000%%RED%ØØØØØØØØ %PURPLE%Amulet %RED%ØØØØØØØØ
-ItemDisplay[UNI !ID jew]: %NOTIFY-PURPLE%%SOUND-3000%%RED%Ø %PURPLE%Rainbow Facet %RED%Ø
+ItemDisplay[UNI !ID rin]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%ØØØØØØØØ %PURPLE%Ring %RED%ØØØØØØØØ%NL%%NL%
+ItemDisplay[UNI !ID amu]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%ØØØØØØØØ %PURPLE%Amulet %RED%ØØØØØØØØ%NL%%NL%
+ItemDisplay[UNI !ID jew]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%Ø %PURPLE%Rainbow Facet %RED%Ø%NL%%NL%
 ItemDisplay[UNI !ID cm3]: %GOLD%Gheed Charm
-ItemDisplay[SET !ID amu]: %NOTIFY-PURPLE%%SOUND-3000%%RED%Ø %GREEN%Amulet %RED%Ø
+ItemDisplay[SET !ID amu]: %NOTIFY-PURPLE%%SOUND-3000%%NL%%NL%%RED%Ø %GREEN%Amulet %RED%Ø%NL%%NL%
 
 ////Rares
 
